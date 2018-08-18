@@ -1,1 +1,1 @@
-# bobogba.github.io
+## Jelyll 搭建的个人博客，使用主题 TeXt
